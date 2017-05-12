@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimeSet</string>
+    <string name="text_result">RESULT = </string>
+    <string name="gotoMap">Go to the map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="main_error_connection">No Internet Connection!!!</string>
+    <string name="title">title</string>
+    <string name="ownername">ownername</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="photo">photo</string>
+</resources>
